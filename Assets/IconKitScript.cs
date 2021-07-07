@@ -100,6 +100,8 @@ public class IconKitScript : MonoBehaviour {
                     string prefix = names[stageOrder[stage]];
                     if (prefix.Equals("gravity ball"))
                         prefix = "ball";
+                    if (prefix.Equals("cube"))
+                        prefix = "icon";
                     if (usedPositions[i] == 0)
                         namedItems.Add(prefix + "def");
                     else
