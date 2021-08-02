@@ -17,8 +17,8 @@ MonoBehaviour:
   description: "That\u2019s a lot of icons to choose from. So many cool designs that
     look breathtakingly beautiful. But of course, you pick the cat icon.\n\nHTML:
     https://ktane.timwi.de/HTML/The%20Icon%20Kit.html\nPDF: https://ktane.timwi.de/PDF/The%20Icon%20Kit.pdf\n\nThe
-    Icon Kit (theIconKitModule) v1.0.1\nModule Idea by Asew54321\nImplemented by eXish\nTwitch
+    Icon Kit (theIconKitModule) v1.0.2\nModule Idea by Asew54321\nImplemented by eXish\nTwitch
     Plays supported"
-  version: 1.0.1
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 82e7365ebad09ed428c83c8e85fe318c, type: 3}
