@@ -543,7 +543,7 @@ public class IconKitScript : MonoBehaviour {
                                     if (generatedStats[2] >= 160) return j;
                                     break;
                                 case 6:
-                                    if (generatedStats[3] >= 120) return j;
+                                    if (generatedStats[1] >= 120) return j;
                                     break;
                                 case 7:
                                     if (generatedStats[7] >= 15) return j;
